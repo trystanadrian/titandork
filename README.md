@@ -24,7 +24,7 @@ You can install Titandork by cloning the repository and using the installation s
 #### 1. Install from GitHub (Source)
 To install the tool directly from source:
 ```
-git clone https://github.com/your-username/titandork.git
+git clone https://github.com/trystanadrian/titandork.git
 ```
 ```
 cd titandork
